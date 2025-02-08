@@ -25,7 +25,7 @@ public class BoardList {
 
     @NotBlank(message = "List name is required")
     @Column(name = "list_name", nullable = false)
-    private String listName;
+    private String listName; // todo, inProgress, review, done, etc...
 
     @Column(name = "current_position", nullable = false)
     private int currentPosition;
