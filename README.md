@@ -28,8 +28,8 @@ This is a Trello-like project management application built using **Spring Boot**
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/trello-clone.git
-   cd trello-clone
+   https://github.com/praveenrampk/trello-board.git
+   cd trello-board
    ```
 2. Configure database in `application.properties`:
    ```properties
